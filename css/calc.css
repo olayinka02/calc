@@ -1,0 +1,28 @@
+
+      body{background: silver;}
+      #template{border:thick solid darkcyan;background: black;align-content: center; margin: 200px;height: 600px;width: 400px;border-radius: 20px 20px 20px 20px;}
+      #templates{border:thin solid darkcyan;background: white;margin: 10px;height: 120px;width: 380px;border-radius:7px 7px 7px 7px;}
+      #temp{border:thin solid darkcyan;background: silver;margin: 10px; height: 450px;width: 380px;}
+      #tan{border:thin solid blue;background: black;margin:15px;height: 40px;width: 60px;font-style:bold;color:aliceblue;border-radius:7px 7px 7px 7px;}
+      #sin{border:thin solid blue;background: black;margin:15px;height: 40px;width: 60px;font-style:bold;color:aliceblue;border-radius:7px 7px 7px 7px;}
+      #cos{border:thin solid blue;background: black;margin:15px;height: 40px;width: 60px;font-style:bold;color:aliceblue;border-radius:7px 7px 7px 7px;}
+      #arctan{border:thin solid blue;background: black;margin:15px;height: 40px;width: 60px;font-style:bold;color:aliceblue;border-radius:7px 7px 7px 7px;}
+      #arcsin{border:thin solid blue;background: black;margin:15px;height: 40px;width: 60px;font-style:bold;color:aliceblue;border-radius:7px 7px 7px 7px;}
+      #arccos{border:thin solid blue;background: black;margin:15px;height: 40px;width: 60px;font-style:bold;color:aliceblue;border-radius:7px 7px 7px 7px;}
+      #lnx{border:thin solid blue;background: black;margin:15px;height: 40px;width: 60px;font-style:bold;color:aliceblue;border-radius:7px 7px 7px 7px;}
+      #log{border:thin solid blue;background: black;margin:15px;height: 40px;width: 60px;font-style:bold;color:aliceblue;border-radius:7px 7px 7px 7px;}
+      #one{border:thin solid blue;background: black;margin:15px;height: 40px;width: 60px;font-style:bold;color:aliceblue;border-radius:7px 7px 7px 7px;}
+      #two{border:thin solid blue;background: black;margin:15px;height: 40px;width: 60px;font-style:bold;color:aliceblue;border-radius:7px 7px 7px 7px;}
+      #three{border:thin solid blue;background: black;margin:15px;height: 40px;width: 60px;font-style:bold;color:aliceblue;border-radius:7px 7px 7px 7px;}
+      #four{border:thin solid blue;background: black;margin:15px;height: 40px;width: 60px;font-style:bold;color:aliceblue;border-radius:7px 7px 7px 7px;}
+      #five{border:thin solid blue;background: black;margin:15px;height: 40px;width: 60px;font-style:bold;color:aliceblue;border-radius:7px 7px 7px 7px;}
+      #six{border:thin solid blue;background: black;margin:15px;height: 40px;width: 60px;font-style:bold;color:aliceblue;border-radius:7px 7px 7px 7px;}
+      #seven{border:thin solid blue;background: black;margin:15px;height: 40px;width: 60px;font-style:bold;color:aliceblue;border-radius:7px 7px 7px 7px;}
+      #eight{border:thin solid blue;background: black;margin:15px;height: 40px;width: 60px;font-style:bold;color:aliceblue;border-radius:7px 7px 7px 7px;}
+      #nine{border:thin solid blue;background: black;margin:15px;height: 40px;width: 60px;font-style:bold;color:aliceblue;border-radius:7px 7px 7px 7px;}
+      #zero{border:thin solid blue;background: black;margin:15px;height: 40px;width: 60px;font-style:bold;color:aliceblue;border-radius:7px 7px 7px 7px;}
+      #plus{border:thin solid blue;background: black;margin:15px;height: 40px;width: 60px;font-style:bold;color:aliceblue;border-radius:7px 7px 7px 7px;}
+      #sub{border:thin solid blue;background: black;margin:15px;height: 40px;width: 60px;font-style:bold;color:aliceblue;border-radius:7px 7px 7px 7px;}
+      #multi{border:thin solid blue;background: black;margin:15px;height: 40px;width: 60px;font-style:bold;color:aliceblue;border-radius:7px 7px 7px 7px;}
+      #divide{border:thin solid blue;background: black;margin:15px;height: 40px;width: 60px;font-style:bold;color:aliceblue;border-radius:7px 7px 7px 7px;}
+ #off{border:thin solid blue;background: black;margin:15px;height: 40px;width: 150px;font-style:bold;color:aliceblue;border-radius:7px 7px 7px 7px;}
