@@ -1,41 +1,64 @@
 function one(){
-    var element1= document.getElementById('one').value;
-     document.getElementById("templates").innerHTML=element1;
- }
+    var element1=calculator.display.value += '1';
+    return element1;
+}
  function two(){
-     var element2= document.getElementById('two').value;
-     document.getElementById("templates").innerHTML=element2;
+    var element2=calculator.display.value += '2';
+    return element2;
  }
  function three(){
-     var element3=document.getElementById('three').value;
-     document.getElementById("templates").innerHTML=element3;
+    var element3=calculator.display.value += '3';
+    return element3;
  }
  function four(){
-    var element4= document.getElementById('four').value;
-     document.getElementById("templates").innerHTML=element4;
+    var element4=calculator.display.value += '4';
+    return element4;
  }
  function five(){
-     var element5= document.getElementById('five').value;
-     document.getElementById("templates").innerHTML=element5;
+    var element5=calculator.display.value += '5';
+    return element5;  
  }
  function six(){
-     var element6=document.getElementById('six').value;
-     document.getElementById("templates").innerHTML=element6;
+    var element6=calculator.display.value += '6';
+    return element6;
+    
  }
  function seven(){
-    var element7= document.getElementById('seven').value;
-     document.getElementById("templates").innerHTML=element7;
+    var element7=calculator.display.value += '7';
+    return element7;
+   
  }
  function eight(){
-     var element8= document.getElementById('eight').value;
-     document.getElementById("templates").innerHTML=element8;
+    var element8=calculator.display.value += '8';
+    return element8;
+   
  }
+  
  function nine(){
-     var element9=document.getElementById('nine').value;
-     document.getElementById("templates").innerHTML=element9;
+    var element9=calculator.display.value += '9';
+    return element9;
  }
  function zero(){
-    var element0= document.getElementById('zero').value;
-     document.getElementById("templates").innerHTML=element0;
+    var element0=calculator.display.value += '0';
+    return element0;
  }
- 
+function plus(){
+    var element11=calculator.display.value += '+';
+    return element11;
+ }
+ function sub(){
+    var element12=calculator.display.value += '-';
+    return element12;
+ }
+ function multi(){
+    var element13=calculator.display.value += '*';
+    return element13;
+ }
+ function divide(){
+    var element14=calculator.display.value += '/';
+    return element14;
+ }
+ function equal(){
+ calculator.display.value =
+ eval(calculator.display.value)
+ }

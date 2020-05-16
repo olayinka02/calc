@@ -12,7 +12,10 @@
                     
     </head>
    <body>
-           <div id="templates"><p></p></div>
+       <div id="template">
+           <form name="calculator">
+               <input id="display" name="display" type="text" disabled>
+           </form>
            <div id="temp">
              <button id="tan" onclick="tan()">tan</button>
              <button id="sin" onclick="sin()">sin</button>
@@ -24,8 +27,8 @@
              <button id="log" onclick="log()">log x</button>
              
              <button id="one" onclick="one()" value="1">1</button>
-             <button id="two" onclick="two()" value="2">2</button>
-             <button id="three" onclick="three()"  value="3">3</button>
+             <button id="two" onclick="two()"  value="2">2</button>
+             <button id="three" onclick="three()"value="3" >3</button>
              <button id="four" onclick="four()" value="4">4</button>
              <button id="five" onclick="five()" value="5">5</button>
              <button id="six" onclick="six()" value="6">6</button>
@@ -33,11 +36,11 @@
              <button id="eight" onclick="eight()" value="8">8</button>
              <button id="nine" onclick="nine()" value="9">9</button>
               <button id="zero" onclick="zero()" value="0">0</button>
-              <button id="plus" onclick="plus()">+</button>
+              <button id="plus" onclick="plus()" value="+">+</button>
               <button id="sub" onclick="sub()">-</button>
               <button id="multi" onclick="multi()">*</button>
               <button id="divide" onclick="divide()">%</button>
-              <button id="off" onclick="off()">OFF</button>
+              <button id="button" name="equal" value="=" onclick="equal()">=</button>
            </div>
           </div>
    </body>

@@ -1,7 +1,7 @@
 
       body{background: silver;}
       #template{border:thick solid darkcyan;background: black;align-content: center; margin: 200px;height: 600px;width: 400px;border-radius: 20px 20px 20px 20px;}
-      #templates{border:thin solid darkcyan;background: white;margin: 10px;height: 120px;width: 380px;border-radius:7px 7px 7px 7px;}
+      #display{border:thin solid darkcyan;background: white;margin: 10px;height: 120px;width: 380px;border-radius:7px 7px 7px 7px;}
       #temp{border:thin solid darkcyan;background: silver;margin: 10px; height: 450px;width: 380px;}
       #tan{border:thin solid blue;background: black;margin:15px;height: 40px;width: 60px;font-style:bold;color:aliceblue;border-radius:7px 7px 7px 7px;}
       #sin{border:thin solid blue;background: black;margin:15px;height: 40px;width: 60px;font-style:bold;color:aliceblue;border-radius:7px 7px 7px 7px;}
@@ -25,4 +25,4 @@
       #sub{border:thin solid blue;background: black;margin:15px;height: 40px;width: 60px;font-style:bold;color:aliceblue;border-radius:7px 7px 7px 7px;}
       #multi{border:thin solid blue;background: black;margin:15px;height: 40px;width: 60px;font-style:bold;color:aliceblue;border-radius:7px 7px 7px 7px;}
       #divide{border:thin solid blue;background: black;margin:15px;height: 40px;width: 60px;font-style:bold;color:aliceblue;border-radius:7px 7px 7px 7px;}
- #off{border:thin solid blue;background: black;margin:15px;height: 40px;width: 150px;font-style:bold;color:aliceblue;border-radius:7px 7px 7px 7px;}
+ #button{border:thin solid blue;background: black;margin:15px;height: 40px;width: 150px;font-style:bold;color:aliceblue;border-radius:7px 7px 7px 7px;}
