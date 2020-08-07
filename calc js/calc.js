@@ -59,8 +59,8 @@ function plus(){
     return element14;
  }
  function tan(){
-    var element15=calculator.display.value += 'tan';
-    return element15;
+    
+    calculator.display.value=Math.tan(calculator.display.value);
  }
  function equal(){
  calculator.display.value =
