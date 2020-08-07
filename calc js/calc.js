@@ -92,7 +92,8 @@ function log(){
 }
 function clear(){
     
-   calculator.display.value="  ";
+   calculator.display.value=delete(calculator.display.value);
+
 }
  function equal(){
  calculator.display.value =
