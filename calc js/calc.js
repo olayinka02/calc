@@ -58,10 +58,42 @@ function plus(){
     var element14=calculator.display.value += '/';
     return element14;
  }
- function tan(){
+ function sin(){
     
-    calculator.display.value=Math.tan(calculator.display.value);
+    calculator.display.value=Math.sin(calculator.display.value);
  }
+ function cos(){
+    
+   calculator.display.value=Math.cos(calculator.display.value);
+}
+function arctan(){
+    
+   calculator.display.value=Math.atan(calculator.display.value);
+}
+function tan(){
+    
+   calculator.display.value=Math.tan(calculator.display.value);
+}
+function arcsin(){
+    
+   calculator.display.value=Math.asin(calculator.display.value);
+}
+function arccos(){
+    
+   calculator.display.value=Math.acos(calculator.display.value);
+}
+function lnx(){
+    
+   calculator.display.value=Math.exp(calculator.display.value);
+}
+function log(){
+    
+   calculator.display.value=Math.log(calculator.display.value);
+}
+function clear(){
+    
+   calculator.display.value="";
+}
  function equal(){
  calculator.display.value =
  eval(calculator.display.value)

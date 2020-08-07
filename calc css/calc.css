@@ -25,4 +25,6 @@
       #sub{border:thin solid blue;background: black;margin:15px;height: 40px;width: 60px;font-style:bold;color:aliceblue;border-radius:7px 7px 7px 7px;}
       #multi{border:thin solid blue;background: black;margin:15px;height: 40px;width: 60px;font-style:bold;color:aliceblue;border-radius:7px 7px 7px 7px;}
       #divide{border:thin solid blue;background: black;margin:15px;height: 40px;width: 60px;font-style:bold;color:aliceblue;border-radius:7px 7px 7px 7px;}
- #button{border:thin solid blue;background: black;margin:15px;height: 40px;width: 150px;font-style:bold;color:aliceblue;border-radius:7px 7px 7px 7px;}
+      
+      #clear{border:thin solid blue;background: black;margin:15px;height: 40px;width: 60px;font-style:bold;color:aliceblue;border-radius:7px 7px 7px 7px;}
+ #button{border:thin solid blue;background: black;margin:15px;height: 40px;width: 70px;font-style:bold;color:aliceblue;border-radius:7px 7px 7px 7px;}
